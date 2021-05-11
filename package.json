@@ -5,6 +5,9 @@
   "author": "Blaine Bublitz <blaine.bublitz@gmail.com> (https://github.com/phated)",
   "repository": "projectsophon/tsconfig",
   "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
   "main": "tsconfig.json",
   "files": [
     "tsconfig.json"
@@ -13,6 +16,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {},
+  "peerDependencies": {
+    "typescript": "4.2.x"
+  },
   "devDependencies": {},
   "keywords": []
 }
