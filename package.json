@@ -1,6 +1,6 @@
 {
   "name": "@projectsophon/tsconfig",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TypeScript config for Project Sophon projects.",
   "author": "Blaine Bublitz <blaine.bublitz@gmail.com> (https://github.com/phated)",
   "repository": "projectsophon/tsconfig",
