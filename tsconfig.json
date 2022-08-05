@@ -43,7 +43,17 @@
       enable source maps by default.
      */
     "sourceMap": true,
+    /**
+      Embed the original source into the sourceMap instead of pointing to source files
+    */
+    "inlineSources": true,
+    /**
+      Always generate .d.ts files when the JavaScript files are generated.
+    */
     "declaration": true,
+    /**
+      Also, point back to the original source files so Go To Definition works.
+    */
     "declarationMap": true
   }
 }
