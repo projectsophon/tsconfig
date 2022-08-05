@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://www.github.com/projectsophon/tsconfig/compare/v0.1.0...v0.1.1) (2022-08-05)
+
+
+### Features
+
+* Always inline sourcemaps into JS files ([#4](https://www.github.com/projectsophon/tsconfig/issues/4)) ([d3f8c7e](https://www.github.com/projectsophon/tsconfig/commit/d3f8c7e0d1e3bd1ede91ddaba0dfb5c3d2865202))
+
 ## 0.1.0 (2022-08-05)
 
 
